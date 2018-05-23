@@ -1,0 +1,5 @@
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\bin\Debug\P.Domain.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\bin\Debug\P.Domain.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\obj\Debug\P.Domain.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\obj\Debug\P.Domain.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\obj\Debug\P.Domain.csprojResolveAssemblyReference.cache

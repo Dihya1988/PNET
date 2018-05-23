@@ -1,0 +1,15 @@
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\P.Service.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\P.Service.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\P.Data.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\P.Domain.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\PService.Pattern.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\EntityFramework.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\P.Data.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\P.Domain.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\PService.Pattern.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\EntityFramework.xml
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\obj\Debug\P.Service.csprojResolveAssemblyReference.cache
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\obj\Debug\P.Service.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\obj\Debug\P.Service.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Service\bin\Debug\MySql.Data.dll

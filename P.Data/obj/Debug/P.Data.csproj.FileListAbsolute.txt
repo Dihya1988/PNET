@@ -1,0 +1,16 @@
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\P.Data.dll.config
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\P.Data.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\P.Data.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\EntityFramework.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\MySql.Data.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\P.Domain.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\P.Domain.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\EntityFramework.xml
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.csprojResolveAssemblyReference.cache
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.Migrations.v18.resources
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.csproj.GenerateResource.Cache
