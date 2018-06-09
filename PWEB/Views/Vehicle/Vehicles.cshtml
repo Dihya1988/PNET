@@ -1,0 +1,101 @@
+﻿@model IEnumerable<P.Domain.Entities.Vehicle>
+
+@{
+    ViewBag.Title = "Vehicles";
+}
+@using (Html.BeginForm("Vehicles", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <label>Liste des véhicules</label> <input type="text" name="nbr" />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Search" class="btn btn-default" />
+        </div>
+    </div>
+}
+
+<h2>Vehicles</h2>
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>
+                <div>
+                    Search by genre: @Html.TextBox("searchString")
+                </div>
+            </td>
+            <td>
+                <input type="submit" value="Search" id="submit" />
+            </td>
+        </tr>
+    </table>
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Registration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SeatsNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValueWhenNew)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValueWhenVenal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InitTraficDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IdUser)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IdFiscalPower)
+        </th>
+        <th></th>
+    </tr>
+    @if (Model != null) {
+        foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Registration)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SeatsNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ValueWhenNew)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ValueWhenVenal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InitTraficDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdUser)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdFiscalPower)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdVehicle }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdVehicle }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdVehicle })
+        </td>
+    </tr>
+    }
+    }
+
+</table>

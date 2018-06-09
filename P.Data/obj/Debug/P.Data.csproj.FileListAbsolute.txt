@@ -26,7 +26,7 @@ C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\P.Dom
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\EntityFramework.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.csprojResolveAssemblyReference.cache
-C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.Migrations.v18.resources
-C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.csproj.GenerateResource.Cache
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.Migrations.v1.resources
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Data\obj\Debug\P.Data.csproj.GenerateResource.Cache

@@ -40,7 +40,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FiscalPowerService.cs" />
+    <Compile Include="IFiscalPowerService.cs" />
+    <Compile Include="IUserService.cs" />
+    <Compile Include="IVehicleService.cs" />
+    <Compile Include="IWreckReportService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserService.cs" />
+    <Compile Include="VehicleService.cs" />
+    <Compile Include="WreckReportService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\P.Data\P.Data.csproj">

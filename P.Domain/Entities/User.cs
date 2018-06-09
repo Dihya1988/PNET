@@ -10,8 +10,14 @@ namespace P.Domain.Entities
    public class User
     {
         [Key]
-        public int idUser { get; set; }
+        public int IdUser { get; set; }
+
+        public String Name { get; set; }
+
+        public String Surname { get; set; }
 
         public ICollection<User> Users { get; set; }
+
+        public ICollection<Vehicle> Vehicles { get; set; }
     }
 }

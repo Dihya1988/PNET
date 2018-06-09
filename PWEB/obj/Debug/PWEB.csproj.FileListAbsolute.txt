@@ -126,6 +126,8 @@ C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.Owi
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.Owin.Security.OAuth.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.Owin.Security.Twitter.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\MySql.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\MySql.Data.Entity.EF6.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Newtonsoft.Json.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Owin.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\P.Domain.dll
@@ -139,9 +141,12 @@ C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\System.Web.We
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\System.Web.WebPages.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\System.Web.WebPages.Razor.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\WebGrease.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\P.Data.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\P.Domain.pdb
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\P.Service.pdb
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\PService.Pattern.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\EntityFramework.SqlServer.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.AI.Web.xml
@@ -157,8 +162,6 @@ C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\System.Web.We
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\System.Web.WebPages.Razor.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Antlr3.Runtime.pdb
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Newtonsoft.Json.xml
-C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\EntityFramework.xml
-C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\EntityFramework.SqlServer.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
@@ -171,6 +174,7 @@ C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.Owi
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\bin\P.Data.pdb
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\obj\Debug\PWEB.csprojResolveAssemblyReference.cache
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\obj\Debug\PWEB.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PWEB\obj\Debug\PWEB.pdb

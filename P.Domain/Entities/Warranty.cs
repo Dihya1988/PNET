@@ -10,7 +10,7 @@ namespace P.Domain.Entities
    public class Warranty
     {
         [Key]
-        public int idWrr { get; set; }
+        public int IdWrr { get; set; }
 
         public ICollection<Warranty> Warranties { get; set; }
     }

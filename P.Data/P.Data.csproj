@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ContextPi.cs" />
+    <Compile Include="Conventions\DateTime2Convention.cs" />
     <Compile Include="Infrastructure\DatabaseFactory.cs" />
     <Compile Include="Infrastructure\Disposable.cs" />
     <Compile Include="Infrastructure\IDatabaseFactory .cs" />
@@ -65,9 +66,9 @@
     <Compile Include="Infrastructure\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\RepositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
-    <Compile Include="Migrations\201805231607570_v18.cs" />
-    <Compile Include="Migrations\201805231607570_v18.Designer.cs">
-      <DependentUpon>201805231607570_v18.cs</DependentUpon>
+    <Compile Include="Migrations\201806061608384_v1.cs" />
+    <Compile Include="Migrations\201806061608384_v1.Designer.cs">
+      <DependentUpon>201806061608384_v1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -84,11 +85,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Configurations\" />
-    <Folder Include="Conventions\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201805231607570_v18.resx">
-      <DependentUpon>201805231607570_v18.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201806061608384_v1.resx">
+      <DependentUpon>201806061608384_v1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
